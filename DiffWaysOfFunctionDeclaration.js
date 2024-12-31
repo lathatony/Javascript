@@ -13,6 +13,6 @@ sub(20,10);
 //arrow Function
 const mul = (a,b)=> console.log(a * b)
 mul(10,4)
-const msg = ()=> {"Hello World"};
+const msg = ()=> "Hello World";
 let res = msg();
 console.log(res);

@@ -53,6 +53,6 @@ console.log('After sort arr4 is:',arr4)
  //array unpacking:
  let users = ['akash','ankit','punith','ayush']
  let [user1, user2] = users;
- console.log(user1)
- console.log(user2)
+ console.log(user1)//akash
+ console.log(user2)//ankith
 
